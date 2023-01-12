@@ -1,2 +1,2 @@
 # DBMS-Notes
-data base managemet all notes
+Database management all notes
